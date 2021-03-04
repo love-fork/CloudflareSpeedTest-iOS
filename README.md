@@ -9,18 +9,25 @@ iOS使用cloud flareST
 
 AppStore安装ish shell  https://apps.apple.com/cn/app/ish-shell/id1436902243
 
-#apk add zip
+执行如下
 
-#mkdir CloudflareST
+#apk add zip#
 
-#cd CloudflareST
+#mkdir CloudflareST#
 
-#wget -N https://github.com/XIU2/CloudflareSpeedTest/releases/download/v1.4.0/CloudflareST_linux_386.zip
+#cd CloudflareST#
 
-#unzip CloudflareST_linux_386.zip
+#wget -N https://github.com/XIU2/CloudflareSpeedTest/releases/download/v1.4.0/CloudflareST_linux_386.zip#
 
-#chmod +x CloudflareST
+#unzip CloudflareST_linux_386.zip#
 
-#cd CloudflareST
+#chmod +x CloudflareST#
 
-#./CloudflareST
+#cd CloudflareST#
+
+#./CloudflareST#
+#
+#
+#
+到iOS自带的文件管理器查看ish shell #app的根目录下的CloudflareST文件夹/result.csv/可查看测速结果＃YouTube https://www.youtube.com/watch?v=lgze7QGKsgE
+
