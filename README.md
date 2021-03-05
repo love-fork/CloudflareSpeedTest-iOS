@@ -17,7 +17,7 @@ AppStore安装ish shell  https://apps.apple.com/cn/app/ish-shell/id1436902243
 
 # cd CloudflareST #
 
-# wget -N https://github.com/XIU2/CloudflareSpeedTest/releases/download/v1.4.0/CloudflareST_linux_386.zip  #
+# wget https://github.com/XIU2/CloudflareSpeedTest/releases/download/v1.4.0/CloudflareST_linux_386.zip  #
 
 # unzip CloudflareST_linux_386.zip #
 
