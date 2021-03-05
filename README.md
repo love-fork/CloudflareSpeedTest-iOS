@@ -9,7 +9,7 @@ iOS使用cloud flareST
 
 AppStore安装ish shell  https://apps.apple.com/cn/app/ish-shell/id1436902243
 
-执行如下
+执行如下**所用版本不同请自行修改
 
 # apk add zip #
 
