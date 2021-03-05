@@ -25,4 +25,4 @@ AppStore安装ish shell  https://apps.apple.com/cn/app/ish-shell/id1436902243
 
 # ./CloudflareST #
 #
-#####到iOS自带的文件管理器查看ish shell #app的根目录下的CloudflareST文件夹/result.csv/可查看测速结果##   https://youtu.be/2TnWQAjc4Eo
+#####到iOS自带的文件管理器查看ish shell #app的根目录下的CloudflareST文件夹/result.csv/可查看测速结果##成功测速视频   https://youtu.be/2TnWQAjc4Eo
